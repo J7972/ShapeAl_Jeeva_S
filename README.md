@@ -38,7 +38,7 @@ or follow SHAPEAI on:
 
 "https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 
-<li><a
+<li><a 
 
 href=
 
